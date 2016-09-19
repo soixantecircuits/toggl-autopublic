@@ -20,4 +20,8 @@ A simple script to automatically turn toggl project to public mode (workspace wi
 4. Run
   `npm start`
 
+## Information and recommandations 
+
+You should use [avn](https://github.com/wbyoung/avn) coupled with [nvm](https://github.com/creationix/nvm) to benefit from the `.nvmrc` file.
+
 
