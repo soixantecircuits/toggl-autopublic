@@ -1,5 +1,5 @@
 'use strict'
-var config = require('./config.json')
+var config = require('./config/config.json')
 var TogglClient = require('toggl-api')
 var toggl = new TogglClient({apiToken: config.token})
 var _ = require('lodash')

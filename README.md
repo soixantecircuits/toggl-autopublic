@@ -1,6 +1,6 @@
 #Toggl Auto Public
 
-A simple script to automatically turn toggl project to public mode (workspace wide)
+A simple script to automatically turn all toggl projects to public mode (workspace wide)
 
 ## Usage
 
